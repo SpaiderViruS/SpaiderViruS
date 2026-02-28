@@ -15,5 +15,3 @@ Backend developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SpaiderViruS&icon=3&color=0)](https://visitcount.itsvg.in)
-
-“Работает — не трогай”. — народная мудрость
